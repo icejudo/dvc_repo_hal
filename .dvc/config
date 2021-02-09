@@ -1,8 +1,0 @@
-[cache]
-    ssh = micache
-['remote "mihal3000"']
-    url = ssh://icejudo@hal3000/media/AjetoNetworking/icejudo/dvc
-    ask_password = true
-['remote "micache"']
-    url = ssh://icejudo@hal3000/media/AjetoNetworking/icejudo/dvc/cache
-    ask_password = true
