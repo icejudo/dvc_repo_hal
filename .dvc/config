@@ -5,3 +5,4 @@
     ask_password = true
 ['remote "micache"']
     url = ssh://icejudo@hal3000/media/AjetoNetworking/icejudo/dvc/cache
+    ask_password = true
